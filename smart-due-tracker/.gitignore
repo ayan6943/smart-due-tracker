@@ -1,0 +1,16 @@
+# Node + React
+node_modules
+.env
+build
+
+# Python + Flask
+__pycache__/
+venv/
+*.pyc
+
+# Firebase credentials
+*.json
+
+# OS
+.DS_Store
+*.log
