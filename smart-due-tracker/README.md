@@ -73,7 +73,3 @@ This project is licensed under the MIT License.
 👨‍💻 Author
 Syed Uzair Ayan Ahmed
 
-
----
-
-Do you want me to also **add screenshots/demo GIF sections** in the README so i
